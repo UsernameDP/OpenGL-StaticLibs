@@ -1,5 +1,5 @@
 # Information
 
 - Glad - modern opengl
-- GLFW - window
+- GLFW - glfw3
 - imgui - from `ocornut/imgui`, glfw_opengl3 is being used
